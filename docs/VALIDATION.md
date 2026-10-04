@@ -11,3 +11,7 @@ Phone links launch the visitor's telephone handler. There are no verified suppli
 Images are local optimized WebP, responsive sizes supplied. All ten image variants total approximately 637 KB; the homepage requests one appropriate size per image. No external script or font dependencies.
 
 Published-site visits are reserved for the required client screenshots, without a separate testing round.
+
+GitHub Pages settings confirmed publication from `main` / root and the actual URL `https://cloudempiretech.github.io/new-stylish-tailors-kolkata/`, matching all SEO URLs. No SEO correction was necessary.
+
+`docs/capture-mobile.html` is an unlinked, noindex screenshot helper that embeds the published homepage in a true 390-pixel iframe viewport. It supplies a clean full-height mobile capture to cloud browser screenshot tools without a device-toolbar overlay. It is excluded from the marketing sitemap.
